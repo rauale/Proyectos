@@ -1,0 +1,20 @@
+h1 {
+    color: palevioletred;
+    font-size: 85px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    text-decoration: underline;
+}
+
+.color-green {
+    color: #8623b0
+}
+
+#datos_personales {
+    font-family: 'Dela Gothic One', cursive;
+}
+#datos_personales:hover{
+    cursor:pointer;
+}
